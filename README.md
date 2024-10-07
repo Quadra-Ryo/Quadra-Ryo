@@ -4,7 +4,7 @@
 
 I'm an Italian software developer with a passion for coding. I currently work in the robotics field, but in my free time, I enjoy developing software that meets my own needs. When I believe it could benefit others, I share it online as open-source in this profile.
 <br><br>
-<a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+<a href="https://github.com/Quadra-Ryo?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/quadra-ryo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
     
 ---
