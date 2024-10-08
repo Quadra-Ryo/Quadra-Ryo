@@ -45,3 +45,8 @@ I'm an Italian software developer with a passion for coding. I currently work in
    ![Quadra-Ryo's GitHub stats](https://github-readme-stats.vercel.app/api?username=quadra-ryo&show_icons=true&theme=gruvbox)
 
 </details>
+
+## Connect with me
+<a href="https://www.linkedin.com/in/niccolo-quadrani">
+ <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
