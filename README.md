@@ -20,13 +20,6 @@ I'm an Italian software developer with a passion for coding. I currently work in
 
 #
 
-<details open> 
-  <summary><h2>📊 My Stats</h2></summary>
-  
-   ![Quadra-Ryo's GitHub stats](https://github-readme-stats.vercel.app/api?username=quadra-ryo&show_icons=true&theme=gruvbox)
-
-</details>
-
 <details> 
   <summary><h2>📜 My Developer Journey</h2></summary>
 
